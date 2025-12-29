@@ -1,22 +1,22 @@
-# Vega Flow
+# Vega-Flow
 ## A Conceptual Whitepaper
 
 **Author:** ADAM EREN VEGA – Æ –  
 (Erenşah Kaygusuz, Germany)
 
-**Date:** 2025-12-29
+**Date:** 2025-12-30
 
 ---
 
 ## Abstract
 
-Vega Flow represents a novel conceptual contribution to the field of meaning-centric computing within the Resonance Data paradigm.
+Vega-Flow represents a novel conceptual contribution to the field of meaning-centric computing within the Resonance Data paradigm.
 
 ---
 
 ## What This Is
 
-Vega Flow is a conceptual framework that:
+Vega-Flow is a conceptual framework that:
 - Provides formal definitions
 - Establishes terminological clarity
 - Enables scientific discourse
@@ -35,7 +35,7 @@ This work does NOT:
 
 ## Conclusion
 
-Vega Flow establishes prior art and conceptual foundation for future research.
+Vega-Flow establishes prior art and conceptual foundation for future research.
 
 ---
 
